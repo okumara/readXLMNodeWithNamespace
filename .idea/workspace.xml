@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2a7fb14-1cf0-4972-8e09-3f16acfe8e31" name="Changes" comment="Empty Maven project">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="f2a7fb14-1cf0-4972-8e09-3f16acfe8e31" name="Changes" comment="Getting version from stackoverflow to work">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
@@ -97,11 +96,20 @@
       <option name="project" value="LOCAL" />
       <updated>1721310585708</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Getting version from stackoverflow to work">
+      <option name="closed" value="true" />
+      <created>1721312278581</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721312278581</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Empty Maven project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Empty Maven project" />
+    <MESSAGE value="Getting version from stackoverflow to work" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getting version from stackoverflow to work" />
   </component>
 </project>
